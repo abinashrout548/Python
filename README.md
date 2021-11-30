@@ -1,2 +1,2 @@
-# assignment_1
+# assignments
 python
